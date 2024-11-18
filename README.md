@@ -1,7 +1,7 @@
 # Carysil-PBI
 We Are Looking For Dashboard where we can check our Financial Performance and various financial metrics to judge our business
 
-1. Power Bi Report For carysil Project : <a "https://github.com/Jyotipatel01/Carysil-PBI/blob/main/Carysil%20(1).pbix"
+1. Power Bi Report For carysil Project : <a href "https://github.com/Jyotipatel01/Carysil-PBI/blob/main/Carysil%20(1).pbix"
 2. Data : <a href "https://github.com/Jyotipatel01/Carysil-PBI/blob/main/Carysil%20OG%20DIM%20(1).xlsx"
 3. Power Bi Report PDF: <a href "https://github.com/Jyotipatel01/Carysil-PBI/blob/main/Carysil%20Project%20PDF.pdf"
 4. Power Bi Report Screenshort: <a href "https://github.com/Jyotipatel01/Carysil-PBI/blob/main/Screenshot%202024-11-17%20230054.png"
