@@ -19,7 +19,7 @@ We Are Looking For Dashboard where we can check our Financial Performance and va
 2. Financial Performance & Analysis
 3. Ratio Analysis
 # Financial Performance Analysis
-1.Overall Sales, Gross, Profit, EBITDA, PAT
+1. Overall Sales, Gross, Profit, EBITDA, PAT
 2. Growth YoY Change
 3. Assets Distribution & Common Sizing of Balance Sheet
 4. Profitability Flow
