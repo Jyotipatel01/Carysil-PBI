@@ -10,8 +10,8 @@ We Are Looking For Dashboard where we can check our Financial Performance and va
 Understanding The Business Understand the Data First To Understand the Business in Better Way….Excel
 
 # Data Preparation
-Data Arrangement : Dimension & Fact able • P&L=INDEX('Profit & Loss'!$A$4:$L$20,MATCH('P&L Fact'!C2,'Profit & Loss'!$A$4:$A$20,0),MATCH('P&L Fact'!E2,'Profit & Loss'!$A$4:$L$4,0)) • BS=INDEX('Balance Sheet'!$A$3:$L$36,MATCH('BS Fact'!E2,'Balance Sheet'!$A$3:$A$36,0),MATCH('BS Fact'!G2,'Balance Sheet'!$A$3:$L$3,0))
-Data Modelling : Relationship Development for Insight
+1. Data Arrangement : Dimension & Fact able • P&L=INDEX('Profit & Loss'!$A$4:$L$20,MATCH('P&L Fact'!C2,'Profit & Loss'!$A$4:$A$20,0),MATCH('P&L Fact'!E2,'Profit & Loss'!$A$4:$L$4,0)) • BS=INDEX('Balance Sheet'!$A$3:$L$36,MATCH('BS Fact'!E2,'Balance Sheet'!$A$3:$A$36,0),MATCH('BS Fact'!G2,'Balance Sheet'!$A$3:$L$3,0))
+2. Data Modelling : Relationship Development for Insight
 # Client Requirement
 We Are Looking For Dashboard where we can check our Financial Performance and various financial metrics to judge our business
 
